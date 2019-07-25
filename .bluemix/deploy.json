@@ -20,7 +20,7 @@
             },
             "type": "string",
             "validator": {
-                "v-type": "cf-region",
+                "v-type": "k8s-region",
                 "params": ["api-key"]
             }
         },
